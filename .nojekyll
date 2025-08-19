@@ -1,0 +1,5 @@
+# Create an empty .nojekyll file
+touch .nojekyll
+
+# Or create it with content (empty is fine)
+echo "" > .nojekyll
